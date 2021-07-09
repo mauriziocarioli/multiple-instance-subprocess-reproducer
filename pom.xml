@@ -46,12 +46,6 @@
   </dependencyManagement>
   <dependencies>
    <dependency>
-      <groupId>com.health-insurance</groupId>
-      <artifactId>PHM-Model</artifactId>
-      <version>3.0.2.redhat</version>
-      <scope>compile</scope>
-    </dependency>
-   <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-core</artifactId>
       <version>${version.jackson}</version>
